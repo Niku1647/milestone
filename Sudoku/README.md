@@ -1,8 +1,4 @@
 # Milestone-2: SUDOKU
-# Team Members
-- Sandeep challa
-- KAPOLE ASHWIN ASHISH RAJ
-- Subhakanta Pati
 
 ## Learning Competencies
 At the end of this milestone you will learn
