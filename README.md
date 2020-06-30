@@ -1,4 +1,4 @@
 # Projects
 
-## Sudoku Game
+## 1.Sudoku Game
  * Vanilla JavaScript
