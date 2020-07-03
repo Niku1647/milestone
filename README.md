@@ -1,4 +1,9 @@
 # Projects
 
 ## 1.Sudoku Game
- * Vanilla JavaScript
+ * JavaScript
+ 
+## 2.Card Game(BlackJack)
+  * HTML
+  * CSS
+  * JavaScript
