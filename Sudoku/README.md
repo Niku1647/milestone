@@ -1,4 +1,4 @@
-# Milestone-2: SUDOKU
+# SUDOKU
 
 ## Learning Competencies
 At the end of this milestone you will learn
