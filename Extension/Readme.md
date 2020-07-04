@@ -1,10 +1,7 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
 
-1.Sandilya Bhagavathula
-
-2.Somagani Mani kumar
-
-3.Subhakanta Pati
+## * This extension that makes the word coronavirus flash different colours
+##   anywhere on the page open in the browser.
 
 ## Learning Competencies
 
