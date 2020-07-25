@@ -12,3 +12,5 @@
   * JavaScript
   
 ## 4.IMAGEPUZZLE GAME
+   * HTML
+   * JavaScript
