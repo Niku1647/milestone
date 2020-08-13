@@ -1,0 +1,30 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #95dada;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    transition: transform 0.25s ease-out; 
+  }
+  .card-container:hover {
+    transform: scale(1.05);
+  }
+  
+  .btn-primary {
+    background-color: #95dada;
+    border-color: #95dada;
+    
+  }
+  .like-comment{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  
+  
+  
+  
