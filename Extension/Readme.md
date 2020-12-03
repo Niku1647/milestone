@@ -1,7 +1,6 @@
 # Chrome Extension: 21st century bookmarker
 
-This extension that makes the word coronavirus flash different colours
-anywhere on the page open in the browser.
+## This extension that makes the word "coronavirus" flash different colours anywhere on the page open in the browser.
 
 ## Learning Competencies
 
